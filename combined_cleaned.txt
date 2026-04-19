@@ -1,0 +1,9 @@
+This is a messy text file.
+It has extra spaces and
+blank lines.
+Also has inconsistent line endings.
+Another line with multiple spaces.
+Second file content.
+Leading spaces here.
+Trailing spaces too.
+More content with extra spaces.

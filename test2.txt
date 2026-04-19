@@ -1,0 +1,5 @@
+Second file content.
+   Leading spaces here.
+
+Trailing spaces too.   
+More content   with   extra   spaces.
